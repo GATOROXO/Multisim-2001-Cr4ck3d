@@ -46,3 +46,50 @@ Siga os passos abaixo para realizar a instalação do Multisim com sucesso. **Im
 ---
 
 **Observação:** Certifique-se de ativar novamente o Windows Defender ou outro antivírus após finalizar o processo de instalação. Use o software de forma ética e responsável.
+
+**IN INGLISH:**
+
+# Multisim Installation Guide (Cracked Version)
+
+Follow the steps below carefully to install Multisim with the cracked version:
+
+## Steps
+
+### Step 1: Temporarily Disable Windows Defender
+- Disable Windows Defender or any antivirus software temporarily to avoid interference during the installation process. You can re-enable it after the installation is complete.
+
+### Step 2: Download the Installation Files
+- Access the provided Google Drive link and download the installation package.
+
+### Step 3: Extract the Files
+- Once the download is complete, extract the contents of the compressed file using software like WinRAR or 7-Zip.
+
+### Step 4: Configure Compatibility Settings
+- Locate the `setup.exe` file within the extracted folder.
+- Right-click on the `setup.exe` file and select **Properties**.
+- Go to the **Compatibility** tab.
+- Check the box for **Run this program in compatibility mode for**, and select the appropriate Windows version from the dropdown menu.
+- Click **Apply** and then **OK**.
+
+### Step 5: Run the Setup File
+- Double-click on the `setup.exe` file to launch the installer.
+
+### Step 6: Perform the Standard Installation
+- Follow the on-screen instructions to perform the standard installation.
+- When prompted to restart your device (PC or laptop), choose to restart.
+
+### Step 7: Open Multisim and the Cracker Tool
+- After restarting, open the Multisim application and the cracker tool provided in the downloaded package.
+
+### Step 8: Enter the Serial Key
+- Upon launching the program, you will be prompted to enter a **serial key**.
+- Copy the serial key from the cracker tool and paste it into the required field.
+- In the "Company" field, you can enter any name you prefer.
+
+### Step 9: Finalize the Installation
+- Continue with the standard installation process.
+- Once completed, the software will be ready for use!
+
+---
+
+**Note:** This guide is for educational purposes only. Unauthorized use of cracked software is illegal and unethical. Consider purchasing a legitimate license to support the developers.
